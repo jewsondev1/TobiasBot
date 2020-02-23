@@ -220,5 +220,11 @@
     "missingBug": "Desculpe, você precisa inserir o bug.",
     "screenshots": "Capturas de tela",
     "view": "Ver"
+  },
+    "money": {
+    "commandDescription": "Ver as suas moedas atuais.",
+    "commandUsage": "[usuário]",
+    "authorMoney": "Você possui **{{balance}} moedas** atualmente.",
+    "userMoney": "O usuário `{{user}}` possui **{{balance}} moedas** atualmente."
   }
 }
